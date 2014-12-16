@@ -1,0 +1,1 @@
+Rebuild of Angular Course Wait and Eat app using the angular seed
